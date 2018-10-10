@@ -13,5 +13,5 @@ Pre-Reqs:
 ---
 
 
-Resources for leaning Ballerina: [Learn Ballerina](https://ballerina.io/learn/)
+Resources for learning Ballerina: [Learn Ballerina](https://ballerina.io/learn/)
 
